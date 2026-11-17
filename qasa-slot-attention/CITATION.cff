@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Real-World Pictures and Unknown Object Counts: Adaptive Slot Attention for Recognition"
+type: software
+authors:
+  - family-names: Rawal
+    given-names: Snigdh
+    affiliation: "University of Petroleum and Energy Studies (UPES), Dehradun, India"
+  - family-names: Pundir
+    given-names: Uday
+    affiliation: "University of Petroleum and Energy Studies (UPES), Dehradun, India"
+  - family-names: Ardhana
+    given-names: Ravi Kumar
+    affiliation: "University of Petroleum and Energy Studies (UPES), Dehradun, India"
+  - family-names: Singh
+    given-names: Giandeep
+    affiliation: "University of Petroleum and Energy Studies (UPES), Dehradun, India"
+license: MIT
+date-released: "2026-11-17"
+# repository-code: "https://github.com/<your-username>/qasa-slot-attention"
